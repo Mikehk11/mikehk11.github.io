@@ -1,6 +1,4 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
@@ -19,7 +17,7 @@ function Projects() {
           p="HealthCare management"
         />
         <ProjectCard
-          src={freshBurger}
+          src={imgcssa}
           link=" https://mikehk11.github.io/css-animations2/"
           h3="Animation"
           p="cool CSS animation"
