@@ -19,14 +19,14 @@ function Projects() {
         <ProjectCard
           src={imgcssa}
           link=" https://mikehk11.github.io/css-animations2/"
-          h3="Animation"
-          p="cool CSS animation"
+          h3="Animation flex card"
+          p="personnel mission statement"
         />
         <ProjectCard
           src={hipsster}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          h3="AI voice assitant"
+          p="python project voice AI"
         />
         <ProjectCard
           src={fitLift}
