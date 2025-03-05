@@ -20,7 +20,7 @@ function Projects() {
           src={imgcssa}
           link=" https://mikehk11.github.io/css-animations2/"
           h3="Animation flex card"
-          p="personnel mission statement"
+          p="informatio web site"
         />
         <ProjectCard
           src={hipsster}
@@ -31,8 +31,8 @@ function Projects() {
         <ProjectCard
           src={fitLift}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          h3="Book Store"
+          p="book store react"
         />
       </div>
     </section>
