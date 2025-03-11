@@ -13,14 +13,14 @@ function Projects() {
         <ProjectCard
           src={imagehc}
           link="https://mikehk11.github.io/healthcare/"
-          h3="HealthCare"
-          p="HealthCare management"
+          h3="SASS"
+          p="platform SASS colllaboration"
         />
         <ProjectCard
           src={imgcssa}
           link=" https://mikehk11.github.io/css-animations2/"
           h3="Animation flex card"
-          p="information web site"
+          p="personal mission statement"
         />
         <ProjectCard
           src={hipsster}
