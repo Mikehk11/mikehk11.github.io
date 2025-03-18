@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={imagehc}
-          link="https://mikehk11.github.io/healthcare/"
+          link=" https://mikehk11.github.io/healthcare/"
           h3="SASS"
           p="platform SASS colllaboration"
         />
