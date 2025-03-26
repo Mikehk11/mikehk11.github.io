@@ -20,7 +20,7 @@ function Projects() {
           src={imgcssa}
           link=" https://mikehk11.github.io/css-animations2/"
           h3="Flex Card"
-          p="css animated flex card"
+          p="animated card"
         />
         <ProjectCard
           src={hipsster}
