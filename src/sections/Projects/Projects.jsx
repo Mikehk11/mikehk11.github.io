@@ -24,13 +24,13 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://mikehk11.github.io/signup/"
           h3="Voice Assitant"
           p="python project voice AI"
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://mikehk11.github.io/Login-registration_2---Starting-Point/"
           h3="Book Store"
           p="book store react"
         />
